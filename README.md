@@ -9,6 +9,6 @@ The following ****required**** funtion is complete:
 - [X] Edit work
 
 The following **optional** features are implemented:
-- [] Save database to SQLite
-- [] Custom ArrayAdapter
-- [] Try ButterKnife
+- [ ] Save database to SQLite
+- [ ] Custom ArrayAdapter
+- [ ] Try ButterKnife
